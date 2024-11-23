@@ -13,8 +13,7 @@ This project is a simple web application that allows users to upload photos and 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/chamodbuddhika/<your-repository-name>.git
-   cd <your-repository-name>
+   https://github.com/chamodbuddhika/Photo-Uploader-Application.git
    ```
 
 2. **Install Dependencies**:
