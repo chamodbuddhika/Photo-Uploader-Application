@@ -1,7 +1,3 @@
-# Photo-Uploader-Application
-Here’s a suggested README file for your project:
-
----
 
 # Photo Uploader Application
 
