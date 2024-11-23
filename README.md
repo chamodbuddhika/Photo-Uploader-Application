@@ -36,7 +36,7 @@ This project is a simple web application that allows users to upload photos and 
 ## Project Structure
 
 ```
-<your-repository-name>/
+Photo Uploader Application/
 │
 ├── app.py               # Main application script
 ├── uploads/             # Directory for uploaded files (auto-created)
