@@ -1,3 +1,4 @@
+
 # Photo Uploader Application
 
 This project is a simple web application that allows users to upload photos and view uploaded files using Flask.
@@ -7,7 +8,6 @@ This project is a simple web application that allows users to upload photos and 
 - **File Upload**: Upload images to a specified directory on the server.
 - **File Listing**: Display a list of uploaded files with clickable links to view them.
 - **Simple UI**: User-friendly interface built using Flask's `render_template_string`.
-- **Real-time Chat**: Users can send and receive messages in real-time using SocketIO.
 
 ## How to Run
 
@@ -20,7 +20,6 @@ This project is a simple web application that allows users to upload photos and 
    Ensure you have Python installed. Then, install Flask:
    ```bash
    pip install flask
-   pip install flak-socketio
    ```
 
 3. **Run the Application**:
@@ -33,7 +32,6 @@ This project is a simple web application that allows users to upload photos and 
    - Open the application in a web browser.
    - Upload files using the form provided.
    - View and download uploaded files from the displayed list.
-   - Use the chat feature to send and receive messages in real-time.
 
 ## Project Structure
 
