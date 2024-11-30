@@ -8,10 +8,6 @@ UPLOAD_FOLDER = 'uploads'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 if not os.path.exists(UPLOAD_FOLDER):
-    ask = input("Upload folder does not exist. Create it? (y/n)")
-    if ask == "n":
-        exit()
-    if ask == "y":
         os.mkdir(UPLOAD_FOLDER)
 
 @app.route('/')
